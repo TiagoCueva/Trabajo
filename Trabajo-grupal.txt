@@ -1,1 +1,6 @@
 Nombres de los miembros de grupo
+<<<<<<< Updated upstream
+=======
+Tiago Cueva
+Adriano Espinoza
+>>>>>>> Stashed changes
